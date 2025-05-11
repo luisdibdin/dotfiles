@@ -29,6 +29,7 @@ return {
         "lua",
         "python",
         "vim",
+        "go",
         "dockerfile",
         "gitignore",
         "query",
