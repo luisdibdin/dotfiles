@@ -2,7 +2,6 @@
 *
 
 # except config stuff
-!.wezterm.lua
 !.gitignore
 !.p10k.zsh
 !.zshrc
@@ -10,5 +9,7 @@
 !.config
 !.config/nvim
 !.config/nvim/**
+!.config/wezterm
+!.config/wezterm/**
 
 .DS_Store
