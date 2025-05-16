@@ -5,6 +5,7 @@ local wezterm = require("wezterm")
 local config = wezterm.config_builder()
 
 -- This is where you actually apply your config choices
+config.window_close_confirmation = "NeverPrompt"
 
 -- my coolnight colorscheme
 config.color_scheme = "Tokyo Night Day"

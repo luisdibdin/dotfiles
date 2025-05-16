@@ -34,6 +34,7 @@ return {
         "gitignore",
         "query",
         "terraform",
+        "latex",
       },
       incremental_selection = {
         enable = true,
